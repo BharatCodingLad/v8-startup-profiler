@@ -38,6 +38,6 @@ MIT
 
 ---
 
-GSoC Proposal: [Deterministic Crash Reproduction for V8](https://github.com/justttkumkum/v8-startup-profiler)
+
 
 Author: Bharat Kaushik 
